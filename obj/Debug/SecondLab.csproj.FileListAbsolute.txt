@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SecondLab\bin\Debug\SecondLab.exe.config
+C:\Users\user\source\repos\SecondLab\bin\Debug\SecondLab.exe
+C:\Users\user\source\repos\SecondLab\bin\Debug\SecondLab.pdb
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.Form1.resources
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.Properties.Resources.resources
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.exe
+C:\Users\user\source\repos\SecondLab\obj\Debug\SecondLab.pdb
